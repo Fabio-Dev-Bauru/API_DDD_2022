@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades.Notificacoes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 namespace Entidades.Entidades
 {
     [Table("TB_NOTICIA")]
-    public class Noticia
+    public class Noticia : Notifica
     {
         [Column("NTC_ID")]
         public int Id { get; set; }
@@ -29,6 +30,13 @@ namespace Entidades.Entidades
 
         [Column("NTC_DATA_ALTERACAO")]
         public DateTime DataAlteracao { get; set; }
+
+        [ForeignKey("ApplicationUser")]
+        [Column(Order = 1)]
+        public string UserId { get; set; }
+
+
+        public virtual ApplicationUser ApplicationUser { get; set; }
 
     }
 }
