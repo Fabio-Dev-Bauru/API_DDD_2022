@@ -10,3 +10,15 @@ C:\Projetos\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompile
 C:\Projetos\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
 C:\Projetos\API_DDD_2022\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
 C:\Projetos\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\bin\Debug\net5.0\Aplicacao.deps.json
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\bin\Debug\net5.0\Aplicacao.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\bin\Debug\net5.0\ref\Aplicacao.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\bin\Debug\net5.0\Aplicacao.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.AssemblyReference.cache
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfoInputs.cache
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfo.cs
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb

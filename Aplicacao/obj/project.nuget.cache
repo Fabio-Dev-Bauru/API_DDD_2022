@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5E0WRIJ14h4jx2uTmARuBIYCte0l1Wfi+B4wJqO4SiTUj3ucKfJrOND62Rdol+0k/dg4WE/bKLkCF21zHCSuWw==",
+  "dgSpecHash": "l6iHRHKZHxUvTjo7L9tLGVufgkZXy++0Fw7bNTiP4zuLttsgkOS9J1MO/6D0VsXkRrGkP6auusOnMWjX7zQWHw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\API_DDD_2022\\Aplicacao\\Aplicacao.csproj",
+  "projectFilePath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Aplicacao\\Aplicacao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hDWq5BLcXza/dEug9bFv9qG5qc8vkAloET6NySEQ21cGzlUgRxopSgkxicNLMaxjmEDVONfw9rlqa6aDDI0wcA==",
+  "dgSpecHash": "gt6i/7EOCklIvGn2AiCfikhbs8bK8b5EQUDbE9MNv8SB4FkGBZxrLBzrVMjhNTmv4/jz4DmV6oXifSR1aJ4kEA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\API_DDD_2022\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

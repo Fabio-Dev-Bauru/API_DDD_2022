@@ -10,3 +10,15 @@ C:\Projetos\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInpu
 C:\Projetos\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Projetos\API_DDD_2022\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Projetos\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.pdb
