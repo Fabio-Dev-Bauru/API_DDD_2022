@@ -22,3 +22,6 @@ C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.csproj.Co
 C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Projetos\API_DDD_2022\API_DDD_2022\Dominio\bin\Debug\net5.0\Entidades.dll
+C:\Projetos\API_DDD_2022\API_DDD_2022\Dominio\bin\Debug\net5.0\Entidades.pdb
+C:\Projetos\API_DDD_2022\API_DDD_2022\Dominio\obj\Debug\net5.0\Dominio.csproj.CopyComplete

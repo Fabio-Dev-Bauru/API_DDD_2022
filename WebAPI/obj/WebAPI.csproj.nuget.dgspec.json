@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj": {
+    "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\obj\\",
+        "outputPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

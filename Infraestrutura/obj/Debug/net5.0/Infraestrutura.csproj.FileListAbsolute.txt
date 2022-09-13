@@ -25,3 +25,8 @@ C:\projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestru
 C:\projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\ref\Infraestrutura.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestrutura.pdb
 C:\projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestrutura.genruntimeconfig.cache
+C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Dominio.dll
+C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Entidades.dll
+C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Dominio.pdb
+C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Entidades.pdb
+C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.CopyComplete
