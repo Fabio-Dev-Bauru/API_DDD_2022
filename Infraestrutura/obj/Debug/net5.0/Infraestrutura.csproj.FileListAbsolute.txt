@@ -30,3 +30,11 @@ C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Entidades.
 C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Dominio.pdb
 C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Entidades.pdb
 C:\Projetos\API_DDD_2022\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.CopyComplete
+C:\Projetos\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Infraestrutura.runtimeconfig.json
+C:\Projetos\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Infraestrutura.runtimeconfig.dev.json
+C:\Projetos\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Dominio.dll
+C:\Projetos\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Entidades.dll
+C:\Projetos\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Dominio.pdb
+C:\Projetos\API_DDD_2022\Infraestrutura\bin\Debug\net5.0\Entidades.pdb
+C:\Projetos\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.CopyComplete
+C:\Projetos\API_DDD_2022\Infraestrutura\obj\Debug\net5.0\Infraestrutura.genruntimeconfig.cache

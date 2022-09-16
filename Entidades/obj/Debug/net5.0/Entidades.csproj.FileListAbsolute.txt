@@ -25,3 +25,6 @@ C:\projetos\API_DDD_2022\API_DDD_2022\Entidades\obj\Debug\net5.0\Entidades.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\Entidades\obj\Debug\net5.0\Entidades.pdb
 C:\projetos\API_DDD_2022\API_DDD_2022\Entidades\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
+C:\Projetos\API_DDD_2022\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Projetos\API_DDD_2022\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Projetos\API_DDD_2022\Entidades\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
