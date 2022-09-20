@@ -60,7 +60,6 @@ C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Identity
 C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -138,3 +137,19 @@ C:\Projetos\API_DDD_2022\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microso
 C:\Projetos\API_DDD_2022\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Projetos\API_DDD_2022\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Projetos\API_DDD_2022\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Aplicacao.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Dominio.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Entidades.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Infraestrutura.dll
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Aplicacao.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Infraestrutura.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Dominio.pdb
+C:\projetos\API_DDD_2022\API_DDD_2022\WebAPI\bin\Debug\net5.0\Entidades.pdb

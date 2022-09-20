@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHc4JyCV6OlpnZD3tMhHIxvf0kRS1G8QXzw0cxbrmljzaK8ltnusW4Tozf2dodapKe8CrBb3RsmDwhpyFRe4sg==",
+  "dgSpecHash": "gSvCTXxXKT+FL8Mlpscy9bfBZi3U0z+UsQuOgU57sGWWZBGi8MH6a4ALyOuVru+IklrlCyU3aeS6lFKZVKBAgA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",

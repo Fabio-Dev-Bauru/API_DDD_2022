@@ -6328,11 +6328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Infraestrutura\\Infraestrutura.csproj",
+      "projectUniqueName": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Infraestrutura\\Infraestrutura.csproj",
       "projectName": "Infraestrutura",
-      "projectPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Infraestrutura\\Infraestrutura.csproj",
+      "projectPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Infraestrutura\\Infraestrutura.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Infraestrutura\\obj\\",
+      "outputPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Infraestrutura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6352,11 +6352,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj"
+            "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj"
             },
-            "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj"
+            "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj"
             }
           }
         }

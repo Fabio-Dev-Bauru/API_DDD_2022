@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1FCs0xICZ6oRjCl8jWHSouVDHe6NrLnYBQy+9uwJQNIwXcsC9Ri5q+ATGabbpWJh1XdSlukj2BNR2bIiYcEiJQ==",
+  "dgSpecHash": "0qHp6bmEl1Vn3bx/o6NJV5KE/r46ascFVm4xDaitL6vhTRV8uR5k2E++J3TPE60fcfqJK920ADG8Cd/RyPah2g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.8\\microsoft.aspnetcore.cryptography.keyderivation.6.0.8.nupkg.sha512",

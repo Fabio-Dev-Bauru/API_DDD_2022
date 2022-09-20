@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj": {}
+    "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj": {
+    "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\obj\\",
+        "outputPath": "C:\\projetos\\API_DDD_2022\\API_DDD_2022\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
