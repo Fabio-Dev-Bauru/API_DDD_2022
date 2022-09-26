@@ -106,10 +106,6 @@ namespace WebAPI.Controllers
             {
                 var idUsuario = await _IAplicacaoUsuario.RetornaIdUsuario(login.Email);
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 37ff0b1c50094726404f8f4ac9e73cb5e694444a
                 var token = new TokenJWTBuilder()
                     .AddSecurityKey(JwtSecurityKey.Create("Secret_Key-12345678"))
                     .AddSubject("Empresa - Canal Dev Net Core")

@@ -73,11 +73,7 @@ namespace Infraestrutura.Repositorio
             {
                 using (var data = new Contexto(_optionsBuilder))
                 {
-<<<<<<< HEAD
-                   var usuario = await data.ApplicationUser.
-=======
                     var usuario = await data.ApplicationUser.
->>>>>>> 37ff0b1c50094726404f8f4ac9e73cb5e694444a
                         Where(u => u.Email.Equals(email))
                         .AsNoTracking()
                         .FirstOrDefaultAsync();
